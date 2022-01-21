@@ -1,3 +1,4 @@
+#### “Iqra biismi rabbika allathee khalaqa” ~Proclaim in the name of your Lord who created everything there is (in the earth and the universe)[Surah al Alaq verse 1]
 ## Hello there, I am Md.Asraful Islam Asif.
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Asrafulasif&show_icons=true&theme=radical" width="500" >
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsrafulAsif&langs_count=10" width="300" >
