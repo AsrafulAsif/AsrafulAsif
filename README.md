@@ -2,7 +2,7 @@
 
 
 <h3 align="center">A small introduction ✒️</h3>
-<p align="center">Currently working as a software engineer in R&D who enjoy working in a variety of settings in order to learn about different people's personalities and gain information. Always willing to take on new tasks. Passionate about sharing experiences and encouraging others.</p>
+<p align="center">Currently working as a software engineer who enjoy working in a variety of settings in order to learn about different people's personalities and gain information. Always willing to take on new tasks. Passionate about sharing experiences and encouraging others.</p>
 
 <h3 align="center">About me 🤔</h3>
 <div align="center">
